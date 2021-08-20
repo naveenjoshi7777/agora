@@ -1,2 +1,2 @@
 #Install agora package 
-npm i agora-access-token
+"npm i agora-access-token"
